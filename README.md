@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dev Raj Nagar (@Dev-RajNagar)
+- 👋 Hi, I’m  Raj Nagar (@Dev-RajNagar)
 - 👀 I’m interested in new Technolgies 
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on Small Projects ATM .
